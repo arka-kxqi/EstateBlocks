@@ -1,0 +1,12 @@
+{
+    "contractAddress": "ST1EPAADB7G21X2RYE5N6FWQMD162BGSSNTAYMJSN",
+    "contractName": "real-estate-contract",
+    "functions":{
+        "list-property":"list-property",
+        "transfer-stx":"transfer-stx",
+        "get-last-property-id":"get-last-property-id",
+        "get-property-by-id":"get-property-by-id",
+        "simple-buy-shares":"simple-buy-shares"
+
+    }
+}
